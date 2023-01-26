@@ -23,6 +23,8 @@
 # 📖 crud_app <a name="about-project"></a>
 
 **crud_app** is a web application that allow users to create, update, delete and reterive a users information.
+![image](https://user-images.githubusercontent.com/22744775/214891863-e69f7321-aaa8-4c2f-ab9b-6e10c3ee71f4.png)
+
 
 ## 🛠 Built With <a name="built-with"></a>
 
