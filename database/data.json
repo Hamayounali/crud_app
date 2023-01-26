@@ -1,0 +1,29 @@
+[
+    {
+        "id":1,
+        "name":"Hamayoun Ali",
+        "avatar":"https://randomuser.me/api/portraits/med/men/1.jpg",
+        "email":"hamayoun@gmail.com",
+        "salary":"2500",
+        "date":"2023-01-24",
+        "status":"Active"
+    },
+    {
+        "id":2,
+        "name":"Habibullah",
+        "avatar":"https://randomuser.me/api/portraits/med/men/2.jpg",
+        "email":"Habibullah@gmail.com",
+        "salary":"2500",
+        "date":"2023-01-24",
+        "status":"Active"
+    },
+    {
+        "id":3,
+        "name":"Wali jan",
+        "avatar":"https://randomuser.me/api/portraits/med/men/3.jpg",
+        "email":"wali@gmail.com",
+        "salary":"2500",
+        "date":"2023-01-24",
+        "status":"Active"
+    }
+]
